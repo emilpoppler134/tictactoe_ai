@@ -1,0 +1,15 @@
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/bin/Debug/net6.0/TicTacToe
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/bin/Debug/net6.0/TicTacToe.deps.json
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/bin/Debug/net6.0/TicTacToe.runtimeconfig.json
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/bin/Debug/net6.0/TicTacToe.dll
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/bin/Debug/net6.0/TicTacToe.pdb
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.AssemblyReference.cache
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfoInputs.cache
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.AssemblyInfo.cs
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.csproj.CoreCompileInputs.cache
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.dll
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/refint/TicTacToe.dll
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.pdb
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/TicTacToe.genruntimeconfig.cache
+/Users/emilpoppler/Desktop/dev/c#/TicTacToe/obj/Debug/net6.0/ref/TicTacToe.dll
